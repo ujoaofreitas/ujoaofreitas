@@ -1,4 +1,4 @@
-# Hello, nice to meet you! I'm João Freitas.
+# João Freitas de Carvalho
 
 **`Backend developer`**
 
