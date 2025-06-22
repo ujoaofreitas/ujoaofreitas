@@ -2,7 +2,7 @@
 
 **`Desenvolvedor JAVA`**
 
-Me chamo João Freitas, tenho 21 anos e sou natural do Recife. Concluí o ensino médio no CMR (Colégio Militar do Recife). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Gosto muito da área e de compartilhar meu conhecimento através da minha comunidade "ZEROUM". 
+Tenho 21 anos e sou natural do Recife. Concluí o ensino médio no CMR (Colégio Militar do Recife). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Gosto muito da área e de compartilhar meu conhecimento através da minha comunidade "ZEROUM". 
 
   ---
 
