@@ -1,12 +1,12 @@
-# Olá, muito prazer! Me chamo João Freitas.
+# Hello, nice to meet you! I'm João Freitas.
 
-**`Desenvolvedor Backend`**
+**`Backend developer`**
 
-Tenho 21 anos e sou natural do Recife. Concluí o ensino médio no CMR (Colégio Militar do Recife). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Gosto muito da área e de compartilhar meu conhecimento através da minha comunidade "ZEROUM". 
+I’m 21 years old and originally from Recife, Brazil. I completed high school at the Recife Military School (CMR) and I'm currently pursuing a degree in Systems Analysis and Development at UNIT. I'm passionate about technology and innovation, and I enjoy sharing my knowledge with others. That's why I created the ZEROUM community, where we promote collaborative learning and collective growth within the tech world.
 
   ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖Languages and Technologies
 
 
 <img 
