@@ -1,6 +1,6 @@
 # Olá, muito prazer! Me chamo João Freitas.
 
-**`Desenvolvedor JAVA`**
+**`Desenvolvedor Backend`**
 
 Tenho 21 anos e sou natural do Recife. Concluí o ensino médio no CMR (Colégio Militar do Recife). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Gosto muito da área e de compartilhar meu conhecimento através da minha comunidade "ZEROUM". 
 
