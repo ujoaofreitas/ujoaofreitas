@@ -1,4 +1,4 @@
-# João Freitas
+# Olá, muito prazer! Me chamo João Freitas.
 
 **`Desenvolvedor JAVA`**
 
