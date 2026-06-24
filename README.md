@@ -172,5 +172,5 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. C
 
 ### 📫 Contato
 
-* **LinkedIn:** [https://www.linkedin.com/in/ujoaofreitas/]
-* **E-mail:** joao.freitas@email.com
+* **LinkedIn:** https://www.linkedin.com/in/ujoaofreitas/
+* **E-mail:** 5265.joaofreitas@gmail.com
