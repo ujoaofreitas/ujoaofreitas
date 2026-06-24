@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-  <img src="https://media.tenor.com/t5w6OCPP77MAAAAi/gengar-dance-victory-dance.gif" width="150px" alt="Gengar Dance" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="100px" alt="Gengar Dance" />
 </p>
 
 Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Concluí o ensino médio no CMR (Colégio Militar do Recife) e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). Sou um desenvolvedor backend apaixonado por tecnologia, focado na criação de soluções robustas, escaláveis e eficientes.
