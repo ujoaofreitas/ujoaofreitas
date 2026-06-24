@@ -1,4 +1,4 @@
-# João Freitas
+# Olá, meu nome é João Freitas! Muito prazer.
 
 **`Desenvolvedor FullStack`**
 
