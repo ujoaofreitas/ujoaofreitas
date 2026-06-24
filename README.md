@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. Concluí o ensino médio no CMR (Colégio Militar do Recife) e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). Focado no desenvolvimento backend e web, criando soluções robustas e modernas com ecossistemas de alta performance.
+Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Concluí o ensino médio no CMR (Colégio Militar do Recife) e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). Desenvolvedor backend apaixonado por tecnologia. 
 
 <p align="left">
     <a href="https://github.com/ujoaofreitas?tab=repositories&sort=stargazers">
@@ -124,26 +124,6 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. C
 
 <br/>
 <br/>
-
----
-
-### 🚀 Projetos em Destaque
-
-#### 🛒 Dscommerce
-* **Descrição:** API robusta de e-commerce desenvolvida no curso Java Spring do DevSuperior (Prof. Nélio Alves). Contempla o fluxo completo de controle de pedidos, produtos e categorias.
-* **Tecnologias:** Java, Spring Boot, Spring Security, OAuth2, PostgreSQL.
-* **Destaque Técnico:** Implementação de controle de acessos rígido com perfis de usuário (Client/Admin), tratamento global de exceções e testes automatizados.
-* **Link do Repositório:** https://github.com/ujoaofreitas/Dscommerce
-
-#### 🎬 Conversor de Vídeos
-* **Descrição:** Aplicação focada no upload, processamento e conversão assíncrona de arquivos de vídeo.
-* **Tecnologias:** PHP, Laravel, MySQL.
-* **Destaque Técnico:** Uso do sistema de filas (Queues/Jobs) do Laravel para evitar o travamento da interface do usuário no processamento em segundo plano.
-* **Link do Repositório:** https://github.com/01ZEROUM/Project-ConvertPro
-
-#### 📺 Plataforma de Streaming (Frontend)
-* **Descrição:** Interface de usuário moderna inspirada nos principais serviços de streaming atuais, focando em usabilidade e performance visual.
-* **Tecnologias:** HTML5, CSS3, JavaScript.
 
 ---
 
