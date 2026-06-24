@@ -133,11 +133,13 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. C
 * **Descrição:** API robusta de e-commerce desenvolvida no curso Java Spring do DevSuperior (Prof. Nélio Alves). Contempla o fluxo completo de controle de pedidos, produtos e categorias.
 * **Tecnologias:** Java, Spring Boot, Spring Security, OAuth2, PostgreSQL.
 * **Destaque Técnico:** Implementação de controle de acessos rígido com perfis de usuário (Client/Admin), tratamento global de exceções e testes automatizados.
+* **Link do Repositório:** https://github.com/ujoaofreitas/Dscommerce
 
 #### 🎬 Conversor de Vídeos
 * **Descrição:** Aplicação focada no upload, processamento e conversão assíncrona de arquivos de vídeo.
 * **Tecnologias:** PHP, Laravel, MySQL.
 * **Destaque Técnico:** Uso do sistema de filas (Queues/Jobs) do Laravel para evitar o travamento da interface do usuário no processamento em segundo plano.
+* **Link do Repositório:** https://github.com/01ZEROUM/Project-ConvertPro
 
 #### 📺 Plataforma de Streaming (Frontend)
 * **Descrição:** Interface de usuário moderna inspirada nos principais serviços de streaming atuais, focando em usabilidade e performance visual.
