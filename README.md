@@ -1,49 +1,132 @@
-# João Freitas!
+# João Freitas
 
-Desenvolvedor backend.
+**`Desenvolvedor FullStack`**
 
----
+Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. Concluí o ensino médio no CMR (Colégio Militar do Recife). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). 
 
-### 🛠️ Tecnologias e Ferramentas
-
-No dia a dia, utilizo um conjunto de tecnologias para construir APIs RESTful, gerir bases de dados e automatizar processos:
-
-* **Linguagens de Programação:** Java, Python, PHP
-* **Frameworks & Ecossistemas:** Spring Boot, Laravel
-* **Frontend:** HTML5, CSS, JavaScript
-* **Bancos de Dados:** MySQL, PostgreSQL
-* **Ferramentas & DevOps:** Git, GitHub
-
----
-
-### 🚀 Projetos em Destaque
-
-#### 1. Conversor de Vídeos
-* **Descrição:** Uma aplicação web desenvolvida para realizar o upload, processamento e conversão de arquivos de vídeo para diferentes formatos.
-* **Tecnologias:** PHP, Laravel, MySQL.
-* **Destaque Técnico:** Gerenciamento de filas (Queues) e jobs em segundo plano para processar arquivos pesados sem travar a interface, além de arquitetura MVC robusta.
-
-
-#### 2. Plataforma de Streaming (Frontend)
-* **Descrição:** A interface de um site de streaming moderna, responsiva e otimizada para o utilizador, inspirada nas principais plataformas do mercado.
-* **Tecnologias:** HTML5, CSS3, JavaScript.
-* **Destaque Técnico:** Design totalmente responsivo, uso de CSS Grid/Flexbox para o layout dos cards e reprodução de media integrada.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujoaofreitas&show_icons=true&theme=gotham"/>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=ujoaofreitas&layout=compact&theme=gotham"/>
+<p align="left">
+    <a href="https://github.com/ujoaofreitas?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ujoaofreitas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/ujoaofreitas?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ujoaofreitas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### 📫 Como me encontrar
+### 🤖 Linguagens e Tecnologias
 
-* **LinkedIn:** [linkedin.com/in/ujoaofreitas](https://linkedin.com/in/ujoaofreitas)
-* **E-mail:** 5265.joaofreitas@gmail.com
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ujoaofreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujoaofreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
