@@ -25,6 +25,7 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Co
     </a>
 </p>
 
+---
 
 ### 💻 Tecnologias & Ferramentas
 
@@ -46,6 +47,7 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Co
   <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+---
 
 ### 📫 Contato & Redes
 
@@ -56,6 +58,7 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Co
   <img src="https://img.shields.io/badge/LoL--palhaço_do_mal%23br2-091428?style=for-the-badge&logo=league-of-legends&logoColor=white" title="Riot ID: palhaço do mal#br2" alt="Riot ID: palhaço do mal#br2" />
 </p>
 
+---
 
 ### 📊 Estatísticas
 
