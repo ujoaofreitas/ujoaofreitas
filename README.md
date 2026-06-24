@@ -153,22 +153,21 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. C
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="195" 
     style="padding-right: 10px; margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ujoaofreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ujoaofreitas&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
-    height="200" 
+    height="195" 
     style="margin-bottom: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujoaofreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
 <br clear="both"/>
-
 ---
 
 ### 📫 Contato
