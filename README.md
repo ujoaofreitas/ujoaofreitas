@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg0cms1M2t1dmMxenY1NTJoeHIzanpuaDBmcGR2eXpjaGluenJ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMiwnuJfzLrPTgyWIC/giphy.gif" width="300px" alt="Gengar Dance" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg0cms1M2t1dmMxenY1NTJoeHIzanpuaDBmcGR2eXpjaGluenJ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMiwnuJfzLrPTgyWIC/giphy.gif" width="500px" alt="Gengar Dance" />
 </p>
 
 Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Concluí o ensino médio no CMR (Colégio Militar do Recife) e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). Sou um desenvolvedor backend apaixonado por tecnologia, focado na criação de soluções robustas, escaláveis e eficientes.
