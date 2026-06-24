@@ -46,6 +46,16 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Co
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+---
+
+### 📫 Contato & Redes
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ujoaofreitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:5265.joaofreitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://discord.com/users/215960656678092801"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/LoL--palhaço_do_mal%23br2-091428?style=for-the-badge&logo=league-of-legends&logoColor=white" title="Riot ID: palhaço do mal#br2" alt="Riot ID: palhaço do mal#br2" />
+</p>
 
 ---
 
@@ -71,13 +81,4 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Co
 
 <br clear="both"/>
 
----
 
-### 📫 Contato & Redes
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ujoaofreitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:5265.joaofreitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://discord.com/users/215960656678092801"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/badge/LoL--palhaço_do_mal%23br2-091428?style=for-the-badge&logo=league-of-legends&logoColor=white" title="Riot ID: palhaço do mal#br2" alt="Riot ID: palhaço do mal#br2" />
-</p>
