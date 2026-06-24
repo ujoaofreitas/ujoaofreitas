@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. Concluí o ensino médio no CMR (Colégio Militar do Recife). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). 
+Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. Concluí o ensino médio no CMR (Colégio Militar do Recife) e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). Focado no desenvolvimento backend e web, criando soluções robustas e modernas com ecossistemas de alta performance.
 
 <p align="left">
     <a href="https://github.com/ujoaofreitas?tab=repositories&sort=stargazers">
@@ -27,19 +27,43 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. C
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring"
+    title="Spring Boot" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -73,24 +97,22 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="CSS" 
+    title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -99,34 +121,55 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Pernambuco. C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 🛒 Dscommerce
+* **Descrição:** API robusta de e-commerce desenvolvida no curso Java Spring do DevSuperior (Prof. Nélio Alves). Contempla o fluxo completo de controle de pedidos, produtos e categorias.
+* **Tecnologias:** Java, Spring Boot, Spring Security, OAuth2, PostgreSQL.
+* **Destaque Técnico:** Implementação de controle de acessos rígido com perfis de usuário (Client/Admin), tratamento global de exceções e testes automatizados.
+
+#### 🎬 Conversor de Vídeos
+* **Descrição:** Aplicação focada no upload, processamento e conversão assíncrona de arquivos de vídeo.
+* **Tecnologias:** PHP, Laravel, MySQL.
+* **Destaque Técnico:** Uso do sistema de filas (Queues/Jobs) do Laravel para evitar o travamento da interface do usuário no processamento em segundo plano.
+
+#### 📺 Plataforma de Streaming (Frontend)
+* **Descrição:** Interface de usuário moderna inspirada nos principais serviços de streaming atuais, focando em usabilidade e performance visual.
+* **Tecnologias:** HTML5, CSS3, JavaScript.
+
+---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ujoaofreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujoaofreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    style="margin-bottom: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujoaofreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<br clear="both"/>
+
+---
+
+### 📫 Contato
+
+* **LinkedIn:** [https://www.linkedin.com/in/ujoaofreitas/]
+* **E-mail:** joao.freitas@email.com
