@@ -35,7 +35,7 @@ No dia a dia, utilizo um conjunto de tecnologias para construir APIs RESTful, ge
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujoaofreitas&show_icons=true&theme=gotham" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=ujoaofreitas&layout=compact&theme=gotham" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=ujoaofreitas&layout=compact&theme=gotham"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ No dia a dia, utilizo um conjunto de tecnologias para construir APIs RESTful, ge
 ### 📫 Como me encontrar
 
 * **LinkedIn:** [linkedin.com/in/ujoaofreitas](https://linkedin.com/in/ujoaofreitas)
-* **E-mail:** [5265.joaofreitas@gmail.com)
+* **E-mail:** 5265.joaofreitas@gmail.com
 
 <br/>
 <br/>
