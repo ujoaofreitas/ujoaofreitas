@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Concluí o ensino médio no CMR (Colégio Militar do Recife) e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). Desenvolvedor backend apaixonado por tecnologia. 
+<p align="center">
+  <img src="https://media.tenor.com/t5w6OCPP77MAAAAi/gengar-dance-victory-dance.gif" width="150px" alt="Gengar Dance" />
+</p>
+
+Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Concluí o ensino médio no CMR (Colégio Militar do Recife) e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT (Universidade Tiradentes). Sou um desenvolvedor backend apaixonado por tecnologia, focado na criação de soluções robustas, escaláveis e eficientes.
 
 <p align="left">
     <a href="https://github.com/ujoaofreitas?tab=repositories&sort=stargazers">
@@ -23,107 +27,25 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Co
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <br/>
 
-<br/>
-<br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
@@ -143,14 +65,17 @@ Me chamo João Freitas de Carvalho, tenho 23 anos e sou natural de Recife/PE. Co
     alt="Top Langs" 
     height="195" 
     style="margin-bottom: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujoaofreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujoaofreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true" 
   />
 </p>
 
 <br clear="both"/>
+
 ---
 
 ### 📫 Contato
 
-* **LinkedIn:** https://www.linkedin.com/in/ujoaofreitas/
-* **E-mail:** 5265.joaofreitas@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/ujoaofreitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:5265.joaofreitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
